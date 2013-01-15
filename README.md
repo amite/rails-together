@@ -12,7 +12,7 @@ Already proposed:
 + CMS with dynamic attributes
 + Social bookmarking tool
 
-If have any idea for the web app, please fill free to update this file or jsut open an issue.
+If have any idea for the web app, please fill free to update this file or just open an issue.
 
 Tools
 =====
