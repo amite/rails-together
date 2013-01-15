@@ -10,8 +10,9 @@ What we are Building
 We haven't decided yet so now is the right time for you to jump in with your favorite project ideas.
 
 Already proposed:
-+ CMS with dynamic attributes
-+ Social bookmarking tool
++ CMS with dynamic attributes [perhaps like expression engine]
++ Social bookmarking tool [like kippt.com]
++ Subscription only blogging platform [like Medium.com]
 
 If have any idea for the web app, please fill free to update this file or jsut open an issue. Just get in touch with Amit Erandole or Lucas Mendelowski at the [google group](https://plus.google.com/communities/102406850580404903942).
 
