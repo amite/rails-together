@@ -25,3 +25,8 @@ Working methodology
 ===================
 
 I suggest to try pair programming but I'm not sure yet how we could do this. I look forward for your ideas.
+
+Our Awesome Wiki
+================
+
+Our Wiki will help you get started with setting up your machine for rails
