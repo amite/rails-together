@@ -7,23 +7,15 @@ Repository contains a codebase for application which is being developed with peo
 What we are Building
 ====================
 
-We haven't decided yet so now is the right time for you to jump in with your favorite project ideas.
+We created a sruvey [here](https://plus.google.com/110334580123660644717/posts/1EHKuSo9HUW) to select what kind of application we are going to build. At the end we choose 'Personal Finance Manager'.
 
-Already proposed:
-+ CMS with dynamic attributes (perhaps like [expression engine](http://ellislab.com/expressionengine/))
-+ Social bookmarking tool (like [kippt.com](http://kippt.com/))
-+ Subscription only blogging platform (like [medium.com](http://medium.com/))
-+ Personal finance manager (like [ZOHO books](http://www.zoho.com/books/))
-+ Multiposting platform (application to post message into various social networks)
-
-If have any idea for the web app, please fill free to update this file or just open an issue. Just get in touch with Amit Erandole or Lucas Mendelowski at the [google group](https://plus.google.com/communities/102406850580404903942).
-
+List of application features, bugs was entered to [Pivotal Tracker](https://www.pivotaltracker.com/projects/739579).
 
 Tools
 =====
 There is a discussion happening about tools right now [here](https://plus.google.com/110334580123660644717/posts/ZSqWeakjJTU)
 
-We haven't decide yet what tools, gems, libraries, etc. we are going to used. I think we should choose them after we decide what kind of app we want to write.
+We haven't decide yet what tools, gems, libraries, etc. we are going to used. I think we should choose them after we decide what kind of app we want to write and what features we are going to build.
 
 For now I just want to suggest to develop our application using BDD methodology so Cucumber and RSpec should be our friends.
 
