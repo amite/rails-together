@@ -1,15 +1,15 @@
 rails-together
 ===============
 
-Repository contains a codebase for application which is being developed with people from G+ community for learning purposes. [#rubyonrails@google plus](https://plus.google.com/communities/102406850580404903942)
+This is an open source project Repository for people who are new to learning rails. If you want to learn rails, by actually building something real, you should join in. You can find existing members at the [#rubyonrails G+ community](https://plus.google.com/communities/102406850580404903942)
 
 
 What we are Building
 ====================
 
-We created a sruvey [here](https://plus.google.com/110334580123660644717/posts/1EHKuSo9HUW) to select what kind of application we are going to build. At the end we choose 'Personal Finance Manager'.
+We created a survey [here](https://plus.google.com/110334580123660644717/posts/1EHKuSo9HUW) to vote on the kind of application we were going to build. At the end we chose 'Personal Finance Manager'.
 
-List of application features, bugs was entered to [Pivotal Tracker](https://www.pivotaltracker.com/projects/739579).
+A List of application features, bugs has been recently entered to [Pivotal Tracker](https://www.pivotaltracker.com/projects/739579).
 
 Tools
 =====
